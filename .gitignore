@@ -1,0 +1,5 @@
+./Settings/*
+./.cproject
+./.project
+".f746_fmc_ Debug.launch"
+./Debug/*

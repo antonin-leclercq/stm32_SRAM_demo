@@ -1,0 +1,16 @@
+/*
+ * fmc.h
+ *
+ *  Created on: Jun 27, 2023
+ *      Author: stage
+ */
+
+#ifndef BSP_INC_FMC_H_
+#define BSP_INC_FMC_H_
+
+#include "stm32f7xx.h"
+
+void FMC_SRAM_Init(void);
+
+
+#endif /* BSP_INC_FMC_H_ */
