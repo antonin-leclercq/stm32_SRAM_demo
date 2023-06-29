@@ -1,6 +1,0 @@
-../app/src/smallprintf.c:31:13:printchar	16	static
-../app/src/smallprintf.c:47:12:prints	40	static
-../app/src/smallprintf.c:80:12:printi	64	static
-../app/src/smallprintf.c:123:12:print	56	static
-../app/src/smallprintf.c:189:5:smallprintf	16	static
-../app/src/smallprintf.c:195:5:smallsprintf	20	static
